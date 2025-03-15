@@ -1,0 +1,28 @@
+HttpPort: :9999
+Db:
+  Host: 127.0.0.1
+  Username: root
+  Password: W6mRdashhdVwxEM*7121
+  Port: 3306
+  Database: zen_chat
+  Charset: utf8mb4
+  MaxIdleCon: 10000
+  MaxOpenCon: 10000
+  ShowSql: true
+
+Redis:
+  Addr: 127.0.0.1:7379
+  Password: asdasdzxc
+  Db: 7
+
+Logger:
+  FilePath: logs/app.log
+  MaxSize: 10240
+  MaxAge: 15
+  Compress: true
+  LocalTime: true
+  MaxBackups: 7
+
+Jwt:
+  Expire: 86400
+  Secret: 70fc4956fb1d4f0f963d9cc2a3bf86e934234223425
