@@ -35,3 +35,6 @@ docker-compose -f opentelemetry.yaml up -d
 
 #### 效果
 ![img.png](./images/img.png)
+
+#### span 嵌套效果
+![img.png](./images/img2.png)
