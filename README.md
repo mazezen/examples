@@ -8,4 +8,4 @@
 ### 5. EthGoat 基于HardHat框架,在Sepolia发行一个ERC20
 ### 6. socket-comm c++ socket  server/client
 ### 7. Eip712Permit (ETH、Permit、USDC) EIP-712 Permit 授权流程
-
+### 8. 将 Elasticsearch、Logstash 和 Kibana 与 Go 应用程序结合使用
