@@ -43,3 +43,7 @@ go 操作 infludb 数据库
 ### nodejs.org
 
 nodejs.org 官方示例
+
+### Python3 Flask
+flask.palletsprojects.com-quickstart
+Flask application
